@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Screenshot
 
-![TODO list with empty list](/imgs/todo%20list-empty.jpg)
-![TODO list with tasks](/imgs/todo%20list-tasks.jpg)
+![TODO list with empty list](todo%20list-empty.jpg)
+![TODO list with tasks](todo%20list-tasks.jpg)
 
 ### Links
 
